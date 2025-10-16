@@ -18,3 +18,6 @@ Simply clone and explore the repository.
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request.
+
+## License
+MIT License - feel free to use this project.
