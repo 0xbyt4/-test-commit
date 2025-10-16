@@ -15,3 +15,6 @@ git clone git@github.com:0xbyt4/-test-commit.git
 
 ## Usage
 Simply clone and explore the repository.
+
+## Contributing
+Contributions are welcome! Feel free to submit a pull request.
