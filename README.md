@@ -12,3 +12,6 @@ This is a test repository for practicing Git commits.
 ```bash
 git clone git@github.com:0xbyt4/-test-commit.git
 ```
+
+## Usage
+Simply clone and explore the repository.
